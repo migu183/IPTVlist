@@ -3,3 +3,6 @@
 #EXTINF:0, tvg-id="Canal2HD.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Las_Estrellas_%282016_Logo%29.png/375px-Las_Estrellas_%282016_Logo%29.png" tvg-name="Las estrellas"  group-title="HD",Las estrellas
 http://exabytetv.zapto.org/exabytetv-esgratis/total/5/KWJQG-1011000110111111110000001100111-ExabyteTV/102/visita-exabytetv.m3u8
 
+#EXTINF:0, tvg-id="Canal5HD.mx" tvg-logo="http://static.tumblr.com/0459a9d7702cc9333c554763a2753aa9/gzfyf1w/br1mzbgxr/tumblr_static_logo_salina_cruz_oaxaca.png" tvg-name="Canal 5"  group-title="HD",Canal 5
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+
